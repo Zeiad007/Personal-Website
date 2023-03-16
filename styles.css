@@ -1,0 +1,20 @@
+
+body {
+    background-color: #93bcff;
+}
+
+h1 {
+    color: aqua;
+}
+
+h3 {
+    color: aqua;
+}
+hr {
+    border-bottom: 5px black dotted;
+    border-width: 7px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 25%;
+}
